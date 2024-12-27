@@ -1,0 +1,16 @@
+{
+    "PORT": 3020,
+    "REQUEST_STRICT_SSL": false,
+    "RETRY_ATTEMPTS": 3,
+    "RETRY_TIME": 3000,
+    "JWT_SECRET_KEY": "my-secrete",
+    "MYSQL": {
+        "HOST": "localhost",
+        "PORT": 3306,
+        "USER": "root",
+        "PASSWORD": "harishmankar@18",
+        "DATABASE": "grocery_system",
+        "RETRY_TIME": 3000
+    }
+  
+}
